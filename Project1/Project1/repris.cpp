@@ -11,6 +11,7 @@ void main()
 	printf("Максим\n");
 	printf("Максим\n");
 	printf("Сергеевич\n");
+	printf("Сергеевич\n");
 	printf("\n");
 	printf("Группа: ИСЭбд-11-2025\n");
 	printf("\n");
